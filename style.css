@@ -1,9 +1,18 @@
 table, th, td {
     
-    border: 2px solid black;
+    border: 3px solid black;
     border-collapse: collapse;
-    width:40%;
+    width:60%; 
+    
   }
   th, td {
-    background-color: #DBACF1;
+    background-color: #e4c5f3;
+  }
+  img {
+    width: 60%;
+    height: auto;
+  }
+  thead{
+   text-align: center ; 
+   font-weight:bold;
   }
